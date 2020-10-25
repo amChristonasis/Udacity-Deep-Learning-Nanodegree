@@ -14,4 +14,4 @@ This project makes use of a Recurrent Neural Network (RNN) to create artificial 
 In this project, Generative Adversarial Networks (GANs) are used to create artificial faces after being trained on a dataset containing the faces of different celebrities.
 
 ## Project 5: Deploying a Sentiment Analysis Web App
-In this project, we created an LSTM for sentiment analysis of movie reviews. The model was trained on AWS Sagemaker with the use of a dataset which contains reviews of movies from the website IMDB. Then, the trained model is deployed on a web app with the use of AWS services, such as Sagemaker, Lambda, and API Gateway.
+In this project, I created an LSTM for sentiment analysis of movie reviews. The model was trained on AWS Sagemaker with the use of a dataset which contains reviews of movies from the website IMDB. Then, the trained model is deployed on a web app with the use of AWS services, such as Sagemaker, Lambda, and API Gateway.
